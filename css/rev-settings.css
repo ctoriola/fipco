@@ -193,7 +193,7 @@ border-bottom:solid 1px rgba(255,255,255,.3);
 /* Mobile responsive - increase carousel text by 1.5x */
 @media (max-width: 768px) {
 	.big-white {
-		font-size: 22.5px;
+		font-size: 18px !important;
 	}
 	
 	.ultra-big-white {
