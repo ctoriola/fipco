@@ -275,7 +275,7 @@ overflow:visible;
 	}
 	header div#logo img {
 	max-height: 160px;
-	width: auto;
+	width: 30rem;
 	}
 	header div#logo .logo-2{
 	display:none;
@@ -347,8 +347,8 @@ overflow:visible;
 	}
 	.logo-small{
 	margin-bottom:20px;
-	max-width: 400px;
-	width: auto;
+	max-width: 30rem;
+	width: 30rem;
 	height: auto;
 	}
 		
